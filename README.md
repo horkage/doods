@@ -1,2 +1,0 @@
-# doods
-iOS app
